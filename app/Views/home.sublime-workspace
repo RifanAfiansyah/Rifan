@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ch",
+				"choiceText2"
+			],
+			[
+				"cho",
+				"choiceText2"
+			],
+			[
+				"choic",
+				"choiceText3"
+			],
+			[
+				"choi",
+				"choices"
+			],
+			[
+				"btn",
+				"btn_mau"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"img",
+				"image-rendering\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"spae",
+				"space-between\tjustify-content"
+			],
+			[
+				"backgroud",
+				"background-color\tproperty"
+			],
+			[
+				"BACK",
+				"background-color\tproperty"
+			],
+			[
+				"BCK",
+				"background-color\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"bagr",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"tect",
+				"text-decoration\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/xamm/htdocs/codeigniter4-CodeIgniter4-v4.1.9-0-g202f41a/codeigniter4-CodeIgniter4-202f41a/app/Views/home.php",
+		"/C/Users/acer/Downloads/Laura/index.html",
+		"/C/xampp/xamm/htdocs/codeigniter4-CodeIgniter4-v4.1.9-0-g202f41a/codeigniter4-CodeIgniter4-202f41a/app/Views/templates.php",
+		"/C/xampp/xamm/htdocs/codeigniter4-CodeIgniter4-v4.1.9-0-g202f41a/codeigniter4-CodeIgniter4-202f41a/app/Controllers/Home.php",
+		"/C/Users/acer/Downloads/bootstrap/index.html",
+		"/C/Users/acer/Pictures/index.html",
+		"/C/Users/acer/Pictures/berulah.php",
+		"/C/Users/acer/Pictures/style.css",
+		"/C/Users/acer/AppData/Local/WhatsApp/WhatsApp.exe",
+		"/D/ngoding/UAS/ifay,css",
+		"/D/ngoding/UAS/fayfay.html",
+		"/D/ngoding/UAS/index.html",
+		"/D/ngoding/index.html",
+		"/D/folder kuliah/smester 2/pak arsyl (PEMEROGRAMAN WEB DASAR)/tugas/pertemuan 7/pertemuan 7.html",
+		"/D/ngoding/belajar/cinta.html",
+		"/D/ngoding/style.css",
+		"/D/ngoding/script.js",
+		"/D/ngoding/background.css",
+		"/D/ngoding/kuis.html",
+		"/D/ngoding/kuis.js",
+		"/D/ngoding/UAS/js/script.js",
+		"/D/ngoding/css/style.css",
+		"/D/ngoding/js/script.js",
+		"/D/ngoding/UAS/css/style.css",
+		"/D/ngoding/UAS/image/kelinci.jpg",
+		"/D/ngoding/UAS/image/tanah.png",
+		"/D/ngoding/jhhj.html",
+		"/D/ngoding/cinta.html",
+		"/D/folder kuliah/smester 2/pak arsyl (PEMEROGRAMAN WEB DASAR)/tugas/pertemuan 7/rifan.py",
+		"/D/folder kuliah/smester 2/pak arsyl (PEMEROGRAMAN WEB DASAR)/tugas/pertemuan 7/qwer.php",
+		"/C/xampp/htdocs/fayfay/nocobot/fayfay08.html",
+		"/C/xampp/htdocs/fayfay/nocobot/databarang.php",
+		"/D/nocobot/licence.txt",
+		"/D/ngoding/ngobar1/ngobar1.html",
+		"/D/ngoding/BOOTSTRAP/bootstrap-3.3.7-dist/css/style.css",
+		"/D/folder kuliah/smester 2/pak arsyl (PEMEROGRAMAN WEB DASAR)/tugas/pertemuan 6/pertemuan6.html",
+		"/D/folder kuliah/smester 2/pak arsyl (PEMEROGRAMAN WEB DASAR)/tugas/pertemuan 5/pertemuan 5.html",
+		"/D/folder kuliah/smester 2/pak arsyl (PEMEROGRAMAN WEB DASAR)/tugas/pertemuan 7/www.html",
+		"/D/folder kuliah/smester 2/pak arsyl (PEMEROGRAMAN WEB DASAR)/tugas/pertemuan 5/html dan css.html",
+		"/D/folder kuliah/smester 2/pak arsyl (PEMEROGRAMAN WEB DASAR)/tugas/pertemuan 5/coba.css",
+		"/D/folder kuliah/smester 2/pak arsyl (PEMEROGRAMAN WEB DASAR)/tugas/pertemuan 4/memasukan gambar.html",
+		"/D/folder kuliah/smester 2/pak arsyl (PEMEROGRAMAN WEB DASAR)/tugas/pertemuan 7/pertemuan7.html",
+		"/D/folder kuliah/smester 2/pak arsyl (PEMEROGRAMAN WEB DASAR)/tugas/pertemuan 7/perr7.js",
+		"/D/folder kuliah/smester 2/pak arsyl (PEMEROGRAMAN WEB DASAR)/tugas/pertemuan 7/pertemuan 7.js",
+		"/D/folder kuliah/smester 2/pak arsyl (PEMEROGRAMAN WEB DASAR)/tugas/pertemuan 7/per7.css",
+		"/D/folder kuliah/smester 2/pak arsyl (PEMEROGRAMAN WEB DASAR)/tugas/pertemuan 7/pertemuan7.css",
+		"/D/folder kuliah/smester 2/pak arsyl (PEMEROGRAMAN WEB DASAR)/tugas/pertemuan 3/pembuatan paragrap.html",
+		"/D/ngoding/ngooding11.html",
+		"/D/ngoding/ngoding2.css",
+		"/D/folder kuliah/smester 2/pak arsyl (PEMEROGRAMAN WEB DASAR)/tugas/membuat form.html",
+		"/D/ngoding/ltihan1.html",
+		"/D/ngoding/tugas master student/form/form rifan afiansyah.html",
+		"/D/ngoding/tugas master student/web/pertemuan 4/index - Copy.html",
+		"/D/ngoding/tugas master student/web/pertemuan 4/style - Copy.css",
+		"/D/ngoding/belajar ngoding/1/belajar.css",
+		"/D/ngoding/latihan",
+		"/D/ngoding/tugas master student/web/pertemuan 4/1",
+		"/D/ngoding/belajar ngoding/style.css",
+		"/D/ngoding/belajar ngoding/rn.css",
+		"/D/ngoding/belajar ngoding/responsive navbar.html",
+		"/D/ngoding/belajar ngoding/index.html",
+		"/D/ngoding/tugas master student/web/belakang.jpg",
+		"/D/ngoding/belajar membuat responsive navbar",
+		"/D/ngoding/fayfayfay.html",
+		"/C/xampp/htdocs/portofolio/ifay.html",
+		"/C/xampp/htdocs/portofolio/prtofolio.html",
+		"/C/xampp/htdocs/codelab/prtofolio.html",
+		"/C/xampp/htdocs/codelab/rifan.html",
+		"/C/xampp/htdocs/codelab/renov.css",
+		"/C/xampp/htdocs/codelab/INDEX.CSS",
+		"/C/xampp/htdocs/codelab/rifan,html"
+	],
+	"find":
+	{
+		"height": 39.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 35.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "home.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
